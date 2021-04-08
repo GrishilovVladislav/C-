@@ -2,6 +2,13 @@
 {
     class Human
     {
+        public enum Race
+        {
+            European,
+            African,
+            Arabian,
+            Asian,
+        }
         public enum Genders
         {
             Male,
@@ -16,6 +23,7 @@
         public double Weight { get; set; }
         public double Height { get; set; }
         public string InterestingFacts { get; set; }
+        public Race HumanRace { get; set; }
         public Human()
         {
             FirstName = SecondName = FathersName = "None";
