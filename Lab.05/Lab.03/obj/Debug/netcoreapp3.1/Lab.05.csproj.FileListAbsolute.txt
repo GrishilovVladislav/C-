@@ -1,0 +1,13 @@
+D:\Repos C-sharp\Lab.05\Lab.03\bin\Debug\netcoreapp3.1\Lab.05.exe
+D:\Repos C-sharp\Lab.05\Lab.03\bin\Debug\netcoreapp3.1\Lab.05.deps.json
+D:\Repos C-sharp\Lab.05\Lab.03\bin\Debug\netcoreapp3.1\Lab.05.runtimeconfig.json
+D:\Repos C-sharp\Lab.05\Lab.03\bin\Debug\netcoreapp3.1\Lab.05.runtimeconfig.dev.json
+D:\Repos C-sharp\Lab.05\Lab.03\bin\Debug\netcoreapp3.1\Lab.05.dll
+D:\Repos C-sharp\Lab.05\Lab.03\bin\Debug\netcoreapp3.1\Lab.05.pdb
+D:\Repos C-sharp\Lab.05\Lab.03\obj\Debug\netcoreapp3.1\Lab.05.csprojAssemblyReference.cache
+D:\Repos C-sharp\Lab.05\Lab.03\obj\Debug\netcoreapp3.1\Lab.05.AssemblyInfoInputs.cache
+D:\Repos C-sharp\Lab.05\Lab.03\obj\Debug\netcoreapp3.1\Lab.05.AssemblyInfo.cs
+D:\Repos C-sharp\Lab.05\Lab.03\obj\Debug\netcoreapp3.1\Lab.05.csproj.CoreCompileInputs.cache
+D:\Repos C-sharp\Lab.05\Lab.03\obj\Debug\netcoreapp3.1\Lab.05.dll
+D:\Repos C-sharp\Lab.05\Lab.03\obj\Debug\netcoreapp3.1\Lab.05.pdb
+D:\Repos C-sharp\Lab.05\Lab.03\obj\Debug\netcoreapp3.1\Lab.05.genruntimeconfig.cache
