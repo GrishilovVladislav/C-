@@ -1,0 +1,13 @@
+C:\Users\vgris\source\repos\polym\polym\bin\Debug\netcoreapp3.1\polym.exe
+C:\Users\vgris\source\repos\polym\polym\bin\Debug\netcoreapp3.1\polym.deps.json
+C:\Users\vgris\source\repos\polym\polym\bin\Debug\netcoreapp3.1\polym.runtimeconfig.json
+C:\Users\vgris\source\repos\polym\polym\bin\Debug\netcoreapp3.1\polym.runtimeconfig.dev.json
+C:\Users\vgris\source\repos\polym\polym\bin\Debug\netcoreapp3.1\polym.dll
+C:\Users\vgris\source\repos\polym\polym\bin\Debug\netcoreapp3.1\polym.pdb
+C:\Users\vgris\source\repos\polym\polym\obj\Debug\netcoreapp3.1\polym.csprojAssemblyReference.cache
+C:\Users\vgris\source\repos\polym\polym\obj\Debug\netcoreapp3.1\polym.AssemblyInfoInputs.cache
+C:\Users\vgris\source\repos\polym\polym\obj\Debug\netcoreapp3.1\polym.AssemblyInfo.cs
+C:\Users\vgris\source\repos\polym\polym\obj\Debug\netcoreapp3.1\polym.csproj.CoreCompileInputs.cache
+C:\Users\vgris\source\repos\polym\polym\obj\Debug\netcoreapp3.1\polym.dll
+C:\Users\vgris\source\repos\polym\polym\obj\Debug\netcoreapp3.1\polym.pdb
+C:\Users\vgris\source\repos\polym\polym\obj\Debug\netcoreapp3.1\polym.genruntimeconfig.cache
