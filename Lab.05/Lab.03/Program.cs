@@ -52,8 +52,6 @@ namespace Lab._05
             C1.GetInfo();
             Console.WriteLine($"\n====================\n");
 
-
-
             Human human = new CoVidPatient();
 
             human.GetInfo();
