@@ -5,6 +5,11 @@ namespace Lab._05
     {
         public int DaysOfStaying { get; set; }
         public string ImportantInfo { get; set; }
+        public CoVidPatient()
+        {
+            DaysOfStaying = 0;
+            ImportantInfo = "None";
+        }
 
         public override void GetInfo()
         {
